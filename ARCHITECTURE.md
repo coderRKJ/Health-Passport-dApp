@@ -178,7 +178,7 @@ pub struct EditionMarker {
 
 ```
 
-The instruction set for the token metadata contract can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-metadata/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for the token metadata contract can be found here: [https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-metadata/program/src/instruction.rs](https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-vault/program/src/instruction.rs)
 
 ### Types
 
@@ -220,7 +220,7 @@ During the first sale, creators share in 100% of the proceeds, while in follow u
 
 ### URI JSON Schema
 
-The URI resource is compatible with [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) in order to easily port NFTs across different chains using the wormhole bridge.  You can see how we build this in our reference implementation here: [https://github.com/metaplex-foundation/metaplex/blob/master/js/packages/web/src/actions/nft.tsx#L66](https://github.com/metaplex-foundation/metaplex/blob/master/js/packages/web/src/actions/nft.tsx#L66)
+The URI resource is compatible with [ERC-1155 JSON Schema](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema) in order to easily port NFTs across different chains using the wormhole bridge.  You can see how we build this in our reference implementation here: [https://github.com/coderRKJ/Health-Passport-dApp/blob/master/js/packages/web/src/actions/nft.tsx#L66](https://github.com/coderRKJ/Health-Passport-dApp/blob/master/js/packages/web/src/actions/nft.tsx#L66)
 
 ```jsx
 {
@@ -352,7 +352,7 @@ pub struct ExternalPriceAccount {
 
 ```
 
-The instruction set for the vault can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for the vault can be found here: [https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-vault/program/src/instruction.rs](https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-vault/program/src/instruction.rs)
 
 ### Types
 
@@ -521,7 +521,7 @@ pub struct BidderPot {
 
 ```
 
-The instruction set for auction can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/auction/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for auction can be found here: [https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/auction/program/src/instruction.rs](https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-vault/program/src/instruction.rs)
 
 ### Types
 
@@ -854,7 +854,7 @@ pub struct PrizeTrackingTicket {
 }
 ```
 
-The instruction set for metaplex can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/metaplex/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for metaplex can be found here: [https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/metaplex/program/src/instruction.rs](https://github.com/coderRKJ/Health-Passport-dApp/blob/master/rust/token-vault/program/src/instruction.rs)
 
 ### Types
 
