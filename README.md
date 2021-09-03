@@ -23,8 +23,8 @@ https://docs.metaplex.com/
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
-$ cd metaplex
+$ git clone https://github.com/coderRKJ/Health-Passport-dApp.git
+$ cd health-passport-dapp
 $ cd js
 $ yarn install
 $ yarn bootstrap
@@ -42,7 +42,7 @@ We have a few channels for contact:
 
 - [Discord](https://discord.gg/metaplex)
 - [@metaplex](https://twitter.com/metaplex) on Twitter
-- [GitHub Issues](https://github.com/metaplex-foundation/metaplex/issues)
+- [GitHub Issues](https://github.com/coderRKJ/Health-Passport-dApp/issues)
 
 # Protocol
 
