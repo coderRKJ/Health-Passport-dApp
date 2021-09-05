@@ -1,17 +1,12 @@
-## Health Passport dApp 
+## Health Passport dApp - A Solana Hackathon Entry
 
 The forked metaplex Project serves as a primer demo to work on our custom NFT minting site for the Health passport dApp that can be deployed on Solana
 
 - **Creating/Minting** non-fungible tokens;
 - **Visualizing** NFTs in a unique way to have access to unique priveleges on an upcoming platform
 
-Metaplex is comprised of two core components: an on-chain program, and a self-hosted front-end web3 application.
+The metaplex code comprised of two core components: an on-chain program, and a self-hosted front-end web3 application.
 
-## In Depth Developer's Guide
-
-Details on the architecture can be found here:
-
-https://docs.metaplex.com/
 
 ## Installing
 
@@ -33,6 +28,10 @@ We have a few channels for contact:
 
 - [GitHub Issues](https://github.com/coderRKJ/Health-Passport-dApp/issues)
 - Telegram: @CoderRKJ
+
+# Community Feedback
+
+Collected a few curated feedback from the community, which is updated on the Main folder.
 
 # Protocol
 
