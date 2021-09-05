@@ -46,11 +46,10 @@ Below are the types of NFTs that can be created using the Metaplex protocol.
 
 A master edition token, when minted, represents both a non-fungible token on Solana and metadata that allows creators to control the provenance of prints created from the master edition.
 
-Rights to create prints are tokenized itself, and the owner of the master edition can distribute tokens that allow users to create prints from master editions. Additionally, the creator can set the max supply of the master edition just like a regular mint on Solana, with the main difference being that each print is a numbered edition created from it.
-
-A notable and desirable effect of master editions is that as prints are sold, the artwork will still remain visible in the artist's wallet as a master edition, while the prints appear in the purchaser's wallets.
 
 ### **Print**
+
+We have retailed the initial feature of the print aspect of the metaplex project.
 
 A **print** represents a copy of an NFT, and is created from a Master Edition. Each print has an edition number associated with it.
 
@@ -77,17 +76,38 @@ The NFTs will create special priveleges that will be visualized on the placehold
 
 https://arpit119323.invisionapp.com/console/Health-ckt43oh2r013i012obgd89gkr/ckt4m99s00l6w016mee1jfb8w/play
 
-### Single Item
+## Demo of the code:
 
-We wish to have them as a single item NFT and not without the popular notion of re-sale, however we would encourage users to exchange NFTs to other new users who might like to try out our platform.
+https://youtu.be/kaPkMHTtzAg
+
 
 ### Limited Edition
 
-Initially we wish to have 
+Initially we wish to have an invitational program for select users who wish to try out our platform.
 
-### Tiered Auction
+## Conceptual front ends:
 
-A tiered auction can contain a mix of the other three auction types as winning placements. For instance, the first place winner could win a Print of Limited Edition NFT A, while the second-place winner could win Normal NFT, and so on. Additionally, all participants who did not win any place could get a Participation NFT Print from a Master Edition (if the Master Edition had no supply limit).
+https://www.loom.com/share/86787d693211421b9d1ff0440490ea05?sharedAppSource=personal_library
+
+## Custom NFT Minting:
+
+https://www.loom.com/share/415bb7d4831a45f8b40baacc170019e7?sharedAppSource=personal_library
+
+https://www.loom.com/share/9a11c604014040f39732cf803979867c?sharedAppSource=personal_library
+
+
+## Level 1 NFT Perks:
+
+https://arpitjain.notion.site/arpitjain/dApp-Wearables-28c071a7ca914df68ebce2d05dbed77c
+
+https://paperpencillabs.notion.site/Covid-19-Products-Vitamins-Supplements-d221809c659f41c3b0dbc21d1a9daf83
+
+https://paperpencillabs.notion.site/Hardware-Wallets-5717aea66d9b458ab63055a757cd9402
+
+
+## Level 2 NFT perks:
+
+https://paperpencillabs.notion.site/paperpencillabs/Level-2-NFT-Privileges-565515de74e24c3c89153b938a559b1f
 
 ## Royalties
 
@@ -96,3 +116,5 @@ We would not explore royalties at the moment, since health-data are sensitive in
 ## Storefronts
 
 Upcoming site will give access based on possession of NFTs with the phantom wallet
+
+Please reach out to the Telegram handle if you wish to contribute further to the Project
