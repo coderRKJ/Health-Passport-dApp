@@ -14,7 +14,7 @@ Metaplex is comprised of two core components: an on-chain program, and a self-ho
 
 ## In Depth Developer's Guide
 
-If you want to deep dive on the Architecture, you can do so here:
+Details on the architecture can be found here:
 
 https://docs.metaplex.com/
 
@@ -40,9 +40,8 @@ bindings that allow interactivity.
 
 We have a few channels for contact:
 
-- [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
 - [GitHub Issues](https://github.com/coderRKJ/Health-Passport-dApp/issues)
+- Telegram: @CoderRKJ
 
 # Protocol
 
