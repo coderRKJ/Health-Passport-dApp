@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Metaplex is a protocol built on top of Solana that allows:
+The forked metaplex Project serves as a primer demo to work on our custom NFT minting site for the Health passport dApp that can be deployed on Solana
 
 - **Creating/Minting** non-fungible tokens;
 - **Starting** a variety of auctions for primary/secondary sales;
