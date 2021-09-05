@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://metaplex.com">
-    <img alt="Metaplex" src="https://metaplex.com/meta.svg" width="250" />
+    <img alt="Solana dApp" src="https://metaplex.com/meta.svg" width="250" />
   </a>
 </p>
 
