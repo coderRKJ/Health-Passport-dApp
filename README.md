@@ -3,8 +3,7 @@
 The forked metaplex Project serves as a primer demo to work on our custom NFT minting site for the Health passport dApp that can be deployed on Solana
 
 - **Creating/Minting** non-fungible tokens;
-- **Starting** a variety of auctions for primary/secondary sales;
-- and **Visualizing** NFTs in a standard way across wallets and applications.
+- **Visualizing** NFTs in a unique way to have access to unique priveleges on an upcoming platform
 
 Metaplex is comprised of two core components: an on-chain program, and a self-hosted front-end web3 application.
 
