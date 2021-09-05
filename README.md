@@ -55,13 +55,11 @@ Usually, prints are created as a part of an auction that has happened on Metaple
 
 For limited auctions, each print number is awarded based on the bid placement.
 
-Prints can be created during [Open Edition](#open-edition) or [Limited Edition](#limited-edition) auction.
-
 ### Normal NFT
 
 A normal NFT (like a Master Edition) when minted represents a non-fungible token on Solana and metadata, but lacks rights to print.
 
-An example of a normal NFT would be an artwork that is a one-of-a-kind that, once sold, is no longer within the artist's own wallet, but is in the purchaser's wallet.
+An example of a normal NFT would be an artwork that is a one-of-a-kind that, once sold, is no longer within the user's own wallet, but is in the purchaser's wallet.
 
 ## Types of NFTs
 
