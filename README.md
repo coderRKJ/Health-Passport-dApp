@@ -31,10 +31,6 @@ $ yarn bootstrap
 $ yarn start
 ```
 
-## Rust Programs
-
-The Rust programs will soon be added to this repo with JavaScript
-bindings that allow interactivity.
 
 ## Community
 
@@ -47,7 +43,7 @@ We have a few channels for contact:
 
 ## Non-fungible tokens
 
-Metaplex's non-fungible-token standard is a part of the Solana Program Library (SPL), and can be characterized as a unique token with a fixed supply of 1 and 0 decimals. We extended the basic definition of an NFT on Solana to include additional metadata such as URI as defined in ERC-721 on Ethereum.
+The Metaplex's non-fungible-token standard is a part of the Solana Program Library (SPL), and can be characterized as a unique token with a fixed supply of 1 and 0 decimals. We extended the basic definition of an NFT on Solana to include additional metadata such as URI as defined in ERC-721 on Ethereum.
 
 Below are the types of NFTs that can be created using the Metaplex protocol.
 
@@ -75,39 +71,25 @@ A normal NFT (like a Master Edition) when minted represents a non-fungible token
 
 An example of a normal NFT would be an artwork that is a one-of-a-kind that, once sold, is no longer within the artist's own wallet, but is in the purchaser's wallet.
 
-## Types of Auctions
+## Types of NFTs
 
-Metaplex currently supports four types of auctions that are all derived from English auctions.
+The project currently allows two type of Health Passport NFTs on offer for every user: 
 
-Basic parameters include:
+Level 1 NFT for a specific Unique ID 
+Level 2 NFT for a specific Unique ID
 
-- Auction start time
-- Auction end time
-- Reservation price
+The NFTs will create special priveleges that will be visualized on the placeholder website that's shown below
 
-Additionally, Metaplex includes a novel concept of the participation NFT. Each bidding participant can be rewarded a unique NFT for participating in the auction.
+https://arpit119323.invisionapp.com/overview/Health-ckt43oh2r013i012obgd89gkr/screens?sortBy=1&sortOrder=1&viewLayout=2
 
-The creator of an auction also has the ability to configure a minimal price that should be charged for redemption, with the option to set it as "free".
 
 ### Single Item
 
-This type of auction can be used to sell normal NFTs and re-sell Prints, as well as the sale of Master Edition themselves (and the associated printing rights) if the artist so wishes. While this last behavior is not exposed in the current UI, it does exist in the protocol.
-
-### Open Edition
-
-An open edition auction requires the offering of a Master Edition NFT that specifically has no set supply. The auction will only create Prints of this item for bidders: each bidder is guaranteed to get a print, as there are no true "winners" of this auction type.
-
-An open edition auction can either have a set fixed price (equivalent to a Buy Now sale), can be set to the bid price (Pay what you want), or can be free (Make any bid to get it for free).
+We wish to have them as a single item NFT and not without the popular notion of re-sale, however we would encourage users to exchange NFTs to other new users who might like to try out our platform.
 
 ### Limited Edition
 
-For a limited edition auction, a Master Edition NFT (of limited or unlimited supply) may be provided to the auction with a number of copies as the set amount of winning places.
-
-For each prize place, a Print will be minted in order of prize place, and awarded to the winning bidder of that place.
-
-For example, the first place winner will win Print #1; the second place winner Print #2; and so on.
-
-It is required for limited supply NFTs that there is at least as much supply remaining as there are desired winners in the auction.
+Initially we wish to have 
 
 ### Tiered Auction
 
@@ -115,12 +97,8 @@ A tiered auction can contain a mix of the other three auction types as winning p
 
 ## Royalties
 
-Metaplex can seamlessly create on-chain artist splits that remove the awkwardness out of collaboration.
-
-Tag each collaborator, set custom percentages, and you’re off to the races. Each NFT can also be minted with configurable royalty payments that are then sent automatically back to the original creators whenever an artwork is resold on a Metaplex marketplace in the future.
+We would not explore royalties at the moment, since health-data are sensitive information unique to a person. 
 
 ## Storefronts
 
-Metaplex's off-chain component allows creators to launch a custom storefront, similar to Shopify or WordPress. This open-source project provides a graphical interface to the on-chain Metaplex program, for creators, buyers, and curators of NFTs. The design and layout of storefronts can be customized to suit the needs of the entity creating it, either as a permanent storefront or an auction hub for a specific auction or collection.
-
-All identification on the Storefront is based on wallet addresses. Creators and store admins sign through their wallets, and users place bids from connected wallets. Custom storefronts allow creators to create unique experiences per auction. Additionally, the Metaplex Foundation is working on multiple partnerships that will enable building immersive storefronts using VR/AR.
+Upcoming site will give access based on possession of NFTs with the phantom wallet
