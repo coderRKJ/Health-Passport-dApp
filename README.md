@@ -37,7 +37,7 @@ Collected a few curated feedback from the community, which is updated on the Mai
 
 ## Non-fungible tokens
 
-The Project's non-fungible-token standard is a part of the Solana Program Library (SPL), and can be characterized as a unique token with a fixed supply of 1 and 0 decimals. We extended the basic definition of an NFT on Solana to include additional metadata such as URI as defined in ERC-721 on Ethereum.
+The Project's non-fungible-token standard is a part of the Solana Program Library (SPL), which is characterized as a unique token with a fixed supply of 1 and 0 decimals. The examples have followed the ERC-721 standards of Ethereum, however we wish to have plans of having Unique non-transferrable utility that is similar to ERC-1238 standards.
 
 Below are the types of NFTs that can be created using the Metaplex protocol.
 
@@ -47,7 +47,7 @@ A master edition token, when minted, represents both a non-fungible token on Sol
 
 ### **Print**
 
-We have retailed the initial feature of the print aspect of the metaplex project.
+We have retained the initial feature of the print aspect of the metaplex project.
 
 A **print** represents a copy of an NFT, and is created from a Master Edition. Each print has an edition number associated with it.
 
