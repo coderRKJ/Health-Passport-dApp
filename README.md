@@ -80,8 +80,7 @@ Level 2 NFT for a specific Unique ID
 
 The NFTs will create special priveleges that will be visualized on the placeholder website that's shown below
 
-https://arpit119323.invisionapp.com/overview/Health-ckt43oh2r013i012obgd89gkr/screens?sortBy=1&sortOrder=1&viewLayout=2
-
+https://arpit119323.invisionapp.com/console/Health-ckt43oh2r013i012obgd89gkr/ckt4m99s00l6w016mee1jfb8w/play
 
 ### Single Item
 
