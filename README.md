@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://metaplex.com">
-    <img alt="Solana dApp" src="https://imgur.com/GVEr0wi />
-  </a>
-</p>
+## Health Passport dApp 
 
 The forked metaplex Project serves as a primer demo to work on our custom NFT minting site for the Health passport dApp that can be deployed on Solana
 
